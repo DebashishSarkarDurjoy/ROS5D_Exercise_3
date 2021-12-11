@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/my_exercise_3/share/my_exercise_3/cmake/my_exercise_3Config.cmake

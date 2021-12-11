@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel/.private/my_exercise_3
+
+Name: my_exercise_3
+Description: Description of my_exercise_3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
